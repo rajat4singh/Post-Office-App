@@ -1,5 +1,6 @@
 //const token = `cdbbf224ad1ee7`
 window.onload = async () => {
+    
     const urlParams = new URLSearchParams(window.location.search);
     const ip = urlParams.get('ip');
 
