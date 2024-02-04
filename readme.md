@@ -1,4 +1,4 @@
-<h1><center>Post Office App</center></h1>
+<h1>Post Office App</h1>
 
 1. Used JS to get user's IP address.
 2. Retrieved user's IP address using JS.
